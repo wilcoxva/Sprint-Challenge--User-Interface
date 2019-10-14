@@ -106,6 +106,19 @@ nav a {
     display: flex;
 }
 
+.middle-boxes {
+    padding: 20px 0px 20px;
+    border-bottom: 1px dashed black;
+}
+
+.middle-boxes a {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    color: black;
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
@@ -267,4 +280,8 @@ footer nav a {
 
 .one {
     background: teal;
+}
+
+.work {
+    padding: 20px;
 }
